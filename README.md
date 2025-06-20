@@ -50,13 +50,6 @@ Use "C" to clear the current input
 Use "AC" to clear all calculations
 Supports keyboard input for numbers and operations
 
-File Structure
-js-calculator/
-├── index.html          # Main HTML structure
-├── style.css           # Calculator styling
-├── script.js           # Calculator logic
-└── README.md           # Project documentation
-
 ##What I'd Improve with More Time
 
 Scientific Calculator Features: Add trigonometric functions, logarithms, and advanced mathematical operations
